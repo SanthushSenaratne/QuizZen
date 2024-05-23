@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\config",
+    "\\application\\controllers",
+    "\\application\\core",
+    "\\application\\models",
+    "\\application\\views"
+  ],
+  "SelectedNode": "\\application\\views\\createquiz.php",
+  "PreviewInSolutionExplorer": false
+}
